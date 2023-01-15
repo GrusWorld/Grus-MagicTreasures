@@ -1,0 +1,6 @@
+name: GrusMagicTreasures
+version: '${version}'
+main: top.zoyn.grusmagictreasures.GrusMagicTreasures
+api-version: 1.15
+authors: [ Zoyn ]
+depend: [Grus]
